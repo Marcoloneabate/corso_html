@@ -1,0 +1,53 @@
+* {
+    font-family: 'Roboto', Arial, Helvetica, sans-serif;
+}
+
+img {
+    width: 100%;
+    max-width: 600px;
+    height: auto;
+}
+
+header,
+footer {
+    border: 4px red solid;
+    text-align: center;
+    height: 100;
+    font-size: 2em;
+    color: blue;
+}
+
+#content {
+    border: 2px dotted green;
+}
+
+#sideMenu {
+    width: 30%;
+}
+
+#main {
+    display: inline
+}
+
+.withBorder {
+    border: 1px solid gray;
+    font-size: 25px;
+}
+
+.titolo {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1.titolo {
+    font-size: 44px;
+    text-decoration: underline;
+}
+
+#spesa>.item>img {
+    width: 300px;
+    height: auto;
+}

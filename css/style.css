@@ -1,0 +1,9 @@
+* {
+    font-family: 'Roboto', Arial, Helvetica, sans-serif;
+}
+
+img {
+    width: 100%;
+    max-width: 900px;
+    height: auto;
+}
